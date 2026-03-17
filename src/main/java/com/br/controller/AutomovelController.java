@@ -22,7 +22,7 @@ import com.br.Automovel;
 import com.br.repository.AutomovelRepository;
 
 
-@RequestMapping("/cmarca/")
+@RequestMapping("/cautomovel/")
 @RestController
 @CrossOrigin(origins="*")
 public class AutomovelController {
